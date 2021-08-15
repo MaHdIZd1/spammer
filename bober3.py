@@ -8,4 +8,4 @@ md = {"cellphone":"+98"+phonum}
 while True :
 	requests.post(urlsend,data=md)
 	print("sendid")
-	time.sleep(5)
+	time.sleep(1)
